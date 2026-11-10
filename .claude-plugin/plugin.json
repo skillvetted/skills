@@ -9,6 +9,6 @@
   },
   "homepage": "https://skillvetted.com",
   "license": "MIT",
-  "icon": ".claude-plugin/icon.png",
+  "icon": "icon.png",
   "keywords": ["freelance", "follow-up", "email", "clients", "writing", "trust-card"]
 }
