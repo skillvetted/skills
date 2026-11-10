@@ -1,0 +1,8 @@
+86651f25e60df2fdc6eebec43707f788304845a2822afd5aefcf84cfff53d645  ./.claude-plugin/icon.png
+c9255e52fec0c1e2ed6257444c5778d07eebeb8c838a99ae74a4ffddfa08c56d  ./.claude-plugin/marketplace.json
+82335a81f29f1be147a2779c845824a3a62e48026d56bd49dc60ee7b30b1d328  ./.claude-plugin/plugin.json
+d6c9405fbb72e46d8de51d4fd1ebca6da2effeda8e51fdd84528e66aee119bd5  ./CHANGELOG.md
+cf969f4f8203d43f2c6e8860fd0c125d46bae3e1aa490976f84403fdb9c3ea1b  ./LICENSE
+8c22a15fe97d0eb4a67ad96dc517a203edbaa2ebc1a7849c2b4cabdbee61d2a3  ./README.md
+997599657957f6e78def30b345d7b8638e41241a833f61cc84261b4f4361727d  ./TRUST.md
+3fe2ec4d2fee1b88fe968949632125c983c0fd903cef841d2a76337fd0c569a5  ./skills/follow-up-writer/SKILL.md
