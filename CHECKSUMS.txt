@@ -1,5 +1,5 @@
 9cfe0fa13ad8c0a24ab13b2a228613c1322370781df836805bd5cd1610e9112c  ./.claude-plugin/marketplace.json
-3a64f257d872c0ca6832c10b7bddfc6db47474913aa448e95b72b83460ab3fce  ./.claude-plugin/plugin.json
+3fa73f3eb84067f2aee99f70ee66d1326a39a0576fc9dce6857cc440aa06744b  ./.claude-plugin/plugin.json
 d6c9405fbb72e46d8de51d4fd1ebca6da2effeda8e51fdd84528e66aee119bd5  ./CHANGELOG.md
 cf969f4f8203d43f2c6e8860fd0c125d46bae3e1aa490976f84403fdb9c3ea1b  ./LICENSE
 1a0753c0cb743a18375b50583b3e9d6f142955b243e6255e2d4505ed7c56d2c9  ./README.md
