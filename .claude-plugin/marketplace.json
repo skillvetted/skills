@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "follow-up-writer",
+      "name": "skillvetted-follow-up-writer",
       "source": "./",
       "description": "Drafts client follow-ups in your own voice. Drafts only, never sends. Ships with a Trust Card.",
       "version": "1.0.0"
