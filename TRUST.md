@@ -1,7 +1,8 @@
 # Trust Card: follow-up-writer v1.0.0
 
 Reviewed: 2026-11-10 · Method: manual review of every file in this repository
-Automated scan: not run yet for v1.0.0
+Automated scan: Skills Directory (third-party), grade A, 100/100, scanned 2026-11-10: https://www.skillsdirectory.com/skills/skillvetted-follow-up-writer
+A scan result describes what one scanner found on one date. It is evidence, not a guarantee.
 Checksums (SHA-256): see CHECKSUMS.txt
 
 ## What it does
