@@ -1,0 +1,14 @@
+{
+  "name": "follow-up-writer",
+  "description": "Drafts client follow-ups in your own voice, learned from 2-3 of your real messages. Drafts only, never sends. Ships with a Trust Card.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SkillVetted",
+    "email": "hello@skillvetted.com",
+    "url": "https://skillvetted.com"
+  },
+  "homepage": "https://skillvetted.com",
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "keywords": ["freelance", "follow-up", "email", "clients", "writing", "trust-card"]
+}
