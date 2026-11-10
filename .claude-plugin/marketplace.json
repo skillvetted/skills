@@ -1,0 +1,16 @@
+{
+  "name": "skillvetted",
+  "description": "Free Claude Skills from SkillVetted. Every skill ships with a Trust Card that lists what it can read, write and reach.",
+  "owner": {
+    "name": "SkillVetted",
+    "email": "hello@skillvetted.com"
+  },
+  "plugins": [
+    {
+      "name": "follow-up-writer",
+      "source": "./",
+      "description": "Drafts client follow-ups in your own voice. Drafts only, never sends. Ships with a Trust Card.",
+      "version": "1.0.0"
+    }
+  ]
+}
