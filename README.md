@@ -35,7 +35,7 @@ Read it before you install: [TRUST.md](TRUST.md).
 **Claude Code (plugin)**
 ```
 /plugin marketplace add skillvetted/skills
-/plugin install follow-up-writer@skillvetted
+/plugin install skillvetted-follow-up-writer@skillvetted
 ```
 
 **Claude Code (skill folder)**
